@@ -133,6 +133,28 @@ This project helped me strengthen my understanding of **recursion, functional pr
 
 🔗 [View Racket Recursive List Processing](https://github.com/AshivRamballi06/Racket-Recursive-List-Processing)
 ---
+---
+
+### 🧩 Prolog Recursive List Processing
+
+A collection of **Prolog exercises** focused on recursion, list processing, filtering, transformation and consecutive-pair problems.
+
+I created these examples while learning logic programming in **SWI-Prolog**, with an emphasis on solving list problems using recursive predicates and pattern matching.
+
+Some of the concepts covered include:
+
+- Recursive list traversal
+- Pattern matching with `[H|T]`
+- Filtering and transforming list values
+- Counting values that satisfy conditions
+- Consecutive matching and non-matching pairs
+- Numeric comparisons and arithmetic
+- Base and recursive cases
+
+This project helped strengthen my understanding of **logic programming, recursion and declarative problem-solving**.
+
+🔗 [View Prolog Recursive List Processing Examples](https://github.com/AshivRamballi06/Prolog-Recursive-List-Processing-Examples)
+---
 
 ## A little more about me
 
