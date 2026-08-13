@@ -1,4 +1,4 @@
-# Hi, I'm Ashiv 👋
+# Hi, I'm Ashiv
 
 I'm a Computer Science and Application Development graduate based in Pretoria, South Africa.
 
@@ -149,13 +149,11 @@ I'm particularly interested in environments where I can learn from experienced d
 
 ---
 
-## Connect with me
+## Contact Details
 
 📍 Pretoria, South Africa
 
 💼 [LinkedIn](https://www.linkedin.com/in/ashiv-ramballi-a8a155288)
-
-💻 [GitHub](https://github.com/AshivRamballi06)
 
 📧 ashiv.ramballi04@gmail.com
 
