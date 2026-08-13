@@ -67,6 +67,30 @@ Some of the areas I worked with:
 
 ---
 
+### 📁 FTP Versioned File Backup System
+
+A Java-based FTP backup application that monitors a local folder and automatically creates **versioned backups** on a remote FTP server.
+
+I built this project to apply computer networking concepts in practice and better understand how FTP works at protocol level. Instead of relying on a high-level FTP library, the application communicates directly with the FTP server using **Java sockets** and standard FTP commands.
+
+Some of the functionality includes:
+
+- Automatic monitoring of a local folder
+- Sequential versioned backups such as `file.txt.000`, `file.txt.001`, `file.txt.002`
+- Uploading and downloading files using FTP
+- Restoring previous backup versions
+- Deleting individual remote backups
+- Viewing remote backup files
+- File size verification using `SIZE`
+- Remote modification timestamps using `MDTM`
+- Active-mode FTP using `PORT`
+- Direct command-response communication with the FTP server
+- Java multithreading and file I/O
+
+This project gave me practical experience with **TCP socket programming, client-server architecture, application-layer protocols and remote file management**.
+
+🔗 [View FTPVersionedFileBackupSystem](https://github.com/AshivRamballi06/FTPVersionedFileBackupSystem)
+
 ### ☁️ Full-Stack Website Development
 
 A full-stack development project built primarily with **C#** and Microsoft cloud technologies.
