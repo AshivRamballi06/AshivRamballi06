@@ -67,7 +67,7 @@ Some of the areas I worked with:
 
 ---
 
-### 📁 FTP Versioned File Backup System
+### FTP Versioned File Backup System
 
 A Java-based FTP backup application that monitors a local folder and automatically creates **versioned backups** on a remote FTP server.
 
@@ -90,6 +90,7 @@ Some of the functionality includes:
 This project gave me practical experience with **TCP socket programming, client-server architecture, application-layer protocols and remote file management**.
 
 🔗 [View FTPVersionedFileBackupSystem](https://github.com/AshivRamballi06/FTPVersionedFileBackupSystem)
+---
 
 ### ☁️ Full-Stack Website Development
 
