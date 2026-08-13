@@ -158,5 +158,8 @@ I'm particularly interested in environments where I can learn from experienced d
 📧 ashiv.ramballi04@gmail.com
 
 ---
+## 📄 My CV
 
-Thanks for checking out my profile.
+[View / Download my CV](./Ashiv_Ramballi_CV.pdf)
+
+---
