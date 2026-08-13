@@ -160,5 +160,5 @@ I'm particularly interested in environments where I can learn from experienced d
 ---
 ## 📄 CV
 
-[View my CV](./Ashiv%20Ramballi%20Curriculum%20Vitae%202026.pdf)
+view my cv: [View my CV](./Ashiv%20Ramballi%20Curriculum%20Vitae%202026.pdf)
 ---
