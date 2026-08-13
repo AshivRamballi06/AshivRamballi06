@@ -14,7 +14,7 @@ At the moment, I'm looking for graduate or junior software development opportuni
 
 ### Languages
 
-`Java` `C#` `Kotlin` `C++` `JavaScript` `SQL` `HTML` `CSS`
+`Java` `C#` `Kotlin` `C++` `JavaScript` `SQL` `HTML` `CSS` `Scheme` `Prolog`
 
 ### Tools & Technologies
 
@@ -110,6 +110,28 @@ It also gave me exposure to working with **Azure Durable Functions** and connect
 
 🔗 [View Project](https://github.com/AshivRamballi06/FrontEndWebsiteDevelopment)
 
+---
+
+### 🧠 Racket Recursive List Processing
+
+A collection of recursive **Racket/Scheme** functions that I built while learning functional programming and list processing.
+
+The project focuses on solving problems without traditional loops by using recursion, list traversal and functional programming concepts.
+
+Some of the functions include:
+
+- Summing negative values
+- Counting matching values
+- Returning every second element
+- Detecting consecutive matches
+- Duplicating selected values
+- Removing matching values
+- Recursively transforming lists
+- Aggregating values without iterative loops
+
+This project helped me strengthen my understanding of **recursion, functional programming, base cases, recursive list traversal, `car`, `cdr`, `cons` and conditional logic**.
+
+🔗 [View Racket Recursive List Processing](https://github.com/AshivRamballi06/Racket-Recursive-List-Processing)
 ---
 
 ## A little more about me
